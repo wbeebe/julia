@@ -4,6 +4,12 @@ A "sketchbook" collection of Julia projects using Atom and Juno for editing and 
 
 Note that as of September 2018 all the applications are using Julia 1.0.
 
+## Update Sept 2018
+
+I've pretty much stopped any work with Julia. I tried to investigate how Julia handles concurrency and their version of coroutines,
+only to discover that none of the official totorials would work with Julia 1.0. I've already got a very good implementation with
+Go, and that's where I'll stay exclusively for the time being.
+
 ## License
 
     Copyright (c) 2018 William H. Beebe, Jr.
