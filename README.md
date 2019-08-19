@@ -12,6 +12,20 @@ Note that as of August 2019 all the applications are using Julia 1.2.0 RC3.
 * iris.csv data file for 14_dataframes.jl
 * 14_dataframes.jl still has two deprecation warnings. Look for "Warning:" in the comments.
 
+To run the Julia By Example scripts the following Julia packages must be installed:
+
+*  "DataFrames"    => v"0.19.2"
+*  "RData"         => v"0.6.2"
+*  "Winston"       => v"0.15.0"
+*  "Calculus"      => v"0.5.0"
+*  "CSV"           => v"0.5.11"
+*  "LegacyStrings" => v"0.4.1"
+*  "IJulia"        => v"1.19.0"
+*  "RDatasets"     => v"0.6.3"
+
+The versions are what was available at the time, and will change going forward.
+Versioning is not canonical.
+
 ## Update 18 August 2019
 
 I'm using Julia again and enjoying the experience.
