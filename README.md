@@ -5,7 +5,14 @@ on macOS and VI with Julia plugins on Raspbian Buster.
 
 Note that as of August 2019 all the applications are using Julia 1.2.0 RC3.
 
-## Update August 2019
+## Update 19 August 2019
+
+* Four more updated Julia examples added (11 through 14).
+* simple.dat data file for 11_input_and_output.jl
+* iris.csv data file for 14_dataframes.jl
+* 14_dataframes.jl still has two deprecation warnings. Look for "Warning:" in the comments.
+
+## Update 18 August 2019
 
 I'm using Julia again and enjoying the experience.
 
