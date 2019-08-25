@@ -20,7 +20,6 @@ To run the Julia By Example scripts the following Julia packages must be install
 *  "Calculus"      => v"0.5.0"
 *  "CSV"           => v"0.5.11"
 *  "LegacyStrings" => v"0.4.1"
-*  "IJulia"        => v"1.19.0"
 *  "RDatasets"     => v"0.6.3"
 
 The versions are what was available at the time, and will change going forward.
