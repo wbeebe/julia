@@ -1,11 +1,14 @@
 # Julia
 
-A collection of Julia projects using Atom and Juno for editing and testing
-on macOS and VI with Julia plugins on Raspbian Buster.
+A collection of Julia projects tested on macOS and Raspbian Buster 64-bit.
 
-Note that as of August 2019 all the applications are using Julia 1.2.0 RC3.
+## Update 7 November 2020
+
+Biden Wins! Also, all scripts have been tested with Julia 1.5.2.
 
 ## Update 19 August 2019
+
+Note that as of August 2019 all the applications are using Julia 1.2.0 RC3.
 
 * Four more updated Julia examples added (11 through 14).
 * simple.dat data file for 11_input_and_output.jl
