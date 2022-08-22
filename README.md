@@ -2,6 +2,13 @@
 
 A collection of Julia projects tested on macOS and Raspbian Buster 64-bit.
 
+## Update 21 August 2022
+
+Happy 90th Birthday Mom!
+
+Code checked to work with Julia 1.8. Script 14_dataframes.jl was corrected
+to work properly.
+
 ## Update 7 November 2020
 
 Biden Wins! Also, all scripts have been tested with Julia 1.5.2.
